@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+}
+.Card1{
+    background-color: lightblue;
+    width: 35%;
+    padding: 20px;
+    margin-left: 35%;
+
+}
+.Card2{
+    width: 400px;
+    background-color: #FFF7ED;
+    margin-left: 13%;
+}
+img{
+    width: 360px;
+    margin-left: 20px;
+}
+h1{
+    text-align: left;
+    font-size: large;
+    padding: 15px;
+}
+p{
+    text-align: left;
+    padding: 20px;
+    font-size: small;
+}
+h2{
+    text-align: left;
+    padding-left: 20px;
+    font-size: medium;
+    font-weight: lighter;
+}
+.button1{
+    background-color: #E17654;
+    border: none;
+    color: white;
+    margin-left: 20px;
+    left: auto;
+}
+.button2{
+    background-color: #FF8C38;
+    color: white;
+    border: none;
+    width: 360px;
+    padding: 10px;
+    margin-left: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    width: 400px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 40px;
+    font-size: smaller;
+}
+#Copyright{
+    text-align: center;
+}
